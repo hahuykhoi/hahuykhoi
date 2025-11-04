@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Vibe Coding<br>🔭 I’m currently working in group Be tap code<br>👯 I’m looking to collaborate on Hoang van Huy<br>🌱 I’m currently learning python<br>⚡ Fun fact: I use Claude Sonnet 4.5
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Vide+Coding)](https://git.io/typing-svg)
+
+<br>🔭 I’m currently working in group Be tap code<br>👯 I’m looking to collaborate on Hoang van Huy<br>🌱 I’m currently learning python<br>⚡ Fun fact: I use Claude Sonnet 4.5
 
 
 ## 🌐 Socials:
